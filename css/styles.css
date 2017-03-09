@@ -13,11 +13,23 @@ body {
     color:#3ADD59;
     font-family: 'Lato' , 'sans serif'
 }
-
+.max-width {
+    max-width:960px;
+}
+.col-md-5 {
+    text-align: left;
+}
+.col-md-7 {
+    text-align: right;
+}
 .test {
     text-align: center;
 }
 
+.col-md-4 {
+    text-align: center;
+
+}
 /*
 #header {
     width:100%;
