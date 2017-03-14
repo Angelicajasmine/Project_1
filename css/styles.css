@@ -1,16 +1,7 @@
-/*
-COLORS:
-Lime green:#00B21C
-Dark green:#006610
-Light greeen:#3ADD59
-Maroon:#660016
-Rosy red:#B20027
-*/
-
 
 body {
     background-color:none;
-    color:#3ADD59;
+    color:black;
     font-family: 'Lato' , 'sans serif'
 }
 .max-width {
@@ -30,6 +21,12 @@ body {
     text-align: center;
 
 }
+
+#favorite-sites > .row > .col-md-4 > img {
+   margin: 0 auto;
+}
+
+
 /*
 #header {
     width:100%;
@@ -193,4 +190,5 @@ footer {
 footer > h1 {
     margin:0;
     transform: translateY(50%);
-}*/
+*/
+
